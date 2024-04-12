@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm a M.S candidate at UCAS / Institute of Automation, CAS.
-I'm currently working on game theory and reinforcement learning.
+
 <!--
 **zkengz/zkengz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
